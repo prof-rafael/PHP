@@ -1,2 +1,0 @@
-# PHP
-Programando em PHP
